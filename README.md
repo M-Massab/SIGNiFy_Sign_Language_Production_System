@@ -119,10 +119,3 @@ The backend performs:
 - Explore diffusion-based motion refinement
 - Expand the PSL vocabulary
 
----
-
-## Author
-
-**Muhammad Shaheer Malik**
-
-If you found this project interesting, feel free to connect with me on LinkedIn!
